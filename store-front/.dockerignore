@@ -1,0 +1,5 @@
+store-front/node_modules
+store-front/build
+store-front/.dockerignore
+store-front/Dockerfile
+store-front/Dockerfile.prod

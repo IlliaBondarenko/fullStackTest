@@ -1,0 +1,4 @@
+FROM openjdk:11
+ADD target/store-api-docker.jar store-api-docker.jar
+ENTRYPOINT ["java", "-jar","store-api-docker.jar"]
+EXPOSE 8080

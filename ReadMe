@@ -1,0 +1,4 @@
+Steps to run this application
+
+Step 1: In cmd or powershell navigbate to the "FullStackTest" folder and run 'docker-compose up --build'.
+Step 2: Go to Localhost:3001 in the browser
